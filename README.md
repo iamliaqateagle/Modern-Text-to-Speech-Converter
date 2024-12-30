@@ -4,7 +4,7 @@ A modern, user-friendly Text-to-Speech application built with Python and tkinter
 
 A modern, user-friendly Text-to-Speech application built with Python and tkinter. Convert text to speech in multiple languages with customizable speed settings.
 
-![Text to Speech Converter](https://raw.githubusercontent.com/username/repo-name/main/screenshots/app-screenshot.png)
+![Text to Speech Converter](https://github.com/iamliaqateagle/Modern-Text-to-Speech-Converter/blob/main/screen.png)
 
 ## Features
 
