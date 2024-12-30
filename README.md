@@ -29,7 +29,7 @@ gTTS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/text-to-speech-converter.git
+git clone [https://github.com/iamliaqateagle/Modern-Text-to-Speech-Converter.git]
 cd text-to-speech-converter
 ```
 
